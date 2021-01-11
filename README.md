@@ -14,8 +14,8 @@ Thanks for stopping in!
 
 Wit Workouts:
 
-<!-- Welcome: ![Screenshot](./public/imgs/code-carnival-readme.png)
-Step Right Up: ![Screenshot](./public/imgs/tent-readme.png) -->
+Welcome: ![Screenshot](./public/imgs/welcome.png)
+Demo: ![Screenshot](./public/imgs/demo.png)
 
 ## Build Details
 
@@ -25,8 +25,7 @@ This application was developed using:
 
 View the repository at: https://github.com/MichaelWitt/Wit-Workouts
 
-<!-- Preview: ![Screenshot](./public/imgs/carnival-readme.png)
-Demo: ![Screenshot](./public/imgs/black-jack-readme.png) -->
+Preview: ![Screenshot](./public/imgs/stats.png)
 
 ## Updates
 
