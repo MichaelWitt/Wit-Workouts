@@ -28,14 +28,16 @@ const workoutSchema = new Schema({
 			weight: {
 				type: Number
 			},
-			// FINISH THESE
-			reps: 10,
-			sets: 4
+			reps: {
+				type: Number
+			},
+			sets: {
+				type: Number
+			}
 		}
 	]
 });
 
-// YODATE TO WORKOUT
-const Transaction = mongoose.model('Transaction', workoutSchema);
+const Workout = mongoose.model('Workout', workoutSchema);
 
-module.exports = Transaction;
+module.exports = Workout;
